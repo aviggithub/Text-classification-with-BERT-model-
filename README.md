@@ -1,4 +1,4 @@
-# Text-classification-with-BERT-model-
+# Text-classification-with-BERT-model
 Text classification problem determined whether the messages is spam or not.
 
 This approach we have used a BERT (Bidirectional Encoder Representations from Transformers) model to gain our model. 
